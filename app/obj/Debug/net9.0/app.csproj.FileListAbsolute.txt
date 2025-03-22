@@ -1,0 +1,15 @@
+/workspaces/coder-test/app/bin/Debug/net9.0/app
+/workspaces/coder-test/app/bin/Debug/net9.0/app.deps.json
+/workspaces/coder-test/app/bin/Debug/net9.0/app.runtimeconfig.json
+/workspaces/coder-test/app/bin/Debug/net9.0/app.dll
+/workspaces/coder-test/app/bin/Debug/net9.0/app.pdb
+/workspaces/coder-test/app/obj/Debug/net9.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/coder-test/app/obj/Debug/net9.0/app.AssemblyInfoInputs.cache
+/workspaces/coder-test/app/obj/Debug/net9.0/app.AssemblyInfo.cs
+/workspaces/coder-test/app/obj/Debug/net9.0/app.csproj.CoreCompileInputs.cache
+/workspaces/coder-test/app/obj/Debug/net9.0/app.sourcelink.json
+/workspaces/coder-test/app/obj/Debug/net9.0/app.dll
+/workspaces/coder-test/app/obj/Debug/net9.0/refint/app.dll
+/workspaces/coder-test/app/obj/Debug/net9.0/app.pdb
+/workspaces/coder-test/app/obj/Debug/net9.0/app.genruntimeconfig.cache
+/workspaces/coder-test/app/obj/Debug/net9.0/ref/app.dll
